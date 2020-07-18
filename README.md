@@ -11,7 +11,9 @@ To provide the developer with an easy way to access the project items generated 
 ## How
 - Clone the project
 - Build the project
-- Get the jar and associate to code-generator
+- Run 
+  - Either get the jar and associate to code-generator
+  - Or run jar like 'java -jar gode-terminal.jar --server.port=<port> --dir=<directory where you want to start shell>'
 
 ## Reference
 [Pty4j](https://github.com/javaterminal/pty4j)
